@@ -53,7 +53,9 @@ http://localhost:3000 (Update the port if your app uses a different one.)
 Usage
 
 1)Open the application in your browser.
+
 2)Create or join a coding session (room).
+
 3)Start coding — changes will sync in real time with others.
 
 ### Contributing
