@@ -50,7 +50,7 @@ npm start
 
 http://localhost:3000 (Update the port if your app uses a different one.)
 
-Usage
+### Usage
 
 1)Open the application in your browser.
 
