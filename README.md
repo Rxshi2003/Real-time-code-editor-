@@ -2,7 +2,7 @@
 
 A **real-time collaborative code editor** that enables multiple users to write and edit code together simultaneously in the browser. This tool is ideal for pair programming, interviews, remote collaboration, teaching, and learning.
 
-🔗 **Live Demo:** https://real-time-code-editor-gamma-seven.vercel.app :contentReference[oaicite:1]{index=1}
+🔗 **Live Demo:** https://real-time-code-editor-gamma-seven.vercel.app 
 
 ---
 
@@ -59,9 +59,14 @@ Usage
 ### Contributing
 
 Contributions are welcome! To contribute:
+
 Fork the repository
+
 Create a feature branch (git checkout -b feature/NewFeature)
+
 Commit your changes (git commit -m "Add NewFeature")
+
 Push to your branch (git push origin feature/NewFeature)
+
 Open a Pull Request
 
