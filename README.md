@@ -48,7 +48,7 @@ npm install
 ### Running Locally
 npm start
 
-http://localhost:3000(Update the port if your app uses a different one.)
+http://localhost:3000 (Update the port if your app uses a different one.)
 
 Usage
 
